@@ -1,0 +1,40 @@
+2023.09.04 10:42:02 INFO  Started: Metals version 1.0.1 in folders 'C:\Users\Admin\Desktop\project\spark-ml\code\Spark3.0ML大数据分析与挖掘-源码-PPT课件-数据-导图\网盘\源代码' for client Visual Studio Code 1.81.1.
+九月 04, 2023 10:42:02 上午 org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+信息: Flyway Community Edition 9.21.2 by Redgate
+九月 04, 2023 10:42:02 上午 org.flywaydb.core.internal.license.VersionPrinter printVersion
+信息: See release notes here: https://rd.gt/416ObMi
+九月 04, 2023 10:42:02 上午 org.flywaydb.core.internal.license.VersionPrinter printVersion
+信息: 
+九月 04, 2023 10:42:03 上午 org.flywaydb.core.FlywayExecutor execute
+信息: Database: jdbc:h2:file:C:\Users\Admin\Desktop\project\spark-ml\code\Spark3.0ML大数据分析与挖掘-源码-PPT课件-数据-导图\网盘\源代码\.metals\metals (H2 2.1)
+九月 04, 2023 10:42:03 上午 org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+信息: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+九月 04, 2023 10:42:03 上午 org.flywaydb.core.internal.command.DbValidate validate
+信息: Successfully validated 4 migrations (execution time 00:00.044s)
+九月 04, 2023 10:42:03 上午 org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+信息: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+九月 04, 2023 10:42:03 上午 org.flywaydb.core.internal.command.DbMigrate migrateGroup
+信息: Current version of schema "PUBLIC": << Empty Schema >>
+九月 04, 2023 10:42:03 上午 org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+信息: Migrating schema "PUBLIC" to version "1 - Create tables"
+九月 04, 2023 10:42:03 上午 org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+信息: Migrating schema "PUBLIC" to version "2 - Server discovery"
+九月 04, 2023 10:42:03 上午 org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+信息: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+九月 04, 2023 10:42:03 上午 org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+信息: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+九月 04, 2023 10:42:03 上午 org.flywaydb.core.internal.command.DbMigrate logSummary
+信息: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.051s)
+2023.09.04 10:42:04 INFO  time: initialize in 1.74s
+2023.09.04 10:42:10 INFO  no build target found for C:\Users\Admin\Desktop\project\spark-ml\code\Spark3.0ML大数据分析与挖掘-源码-PPT课件-数据-导图\网盘\源代码\C03\CacheTest.scala. Using presentation compiler with project's scala-library version: 3.3.0
+2023.09.04 10:42:11 INFO  Running List(C:\Users\Admin\AppData\Local\Coursier\data\bin\scala-cli.BAT, setup-ide, C:\Users\Admin\Desktop\project\spark-ml\code\Spark3.0ML大数据分析与挖掘-源码-PPT课件-数据-导图\网盘\源代码)
+2023.09.04 10:42:11 INFO  Scala CLI: [error]  C:\Users\Admin\Desktop\project\spark-ml\code\Spark3.0ML大数据分析与挖掘-源码-PPT课件-数据-导图\网盘\源代码: input file not found
+2023.09.04 10:42:11 INFO  Scala CLI: Try viewing the relevant help to see the list of available sub-commands and options.
+2023.09.04 10:42:11 INFO  Scala CLI:   C:\Users\Admin\AppData\Local\Coursier\data\bin\.scala-cli.aux.exe setup-ide --help
+2023.09.04 10:42:11 WARN  Build server is not auto-connectable.
+2023.09.04 10:42:11 WARN  no build tool detected in workspace 'C:\Users\Admin\Desktop\project\spark-ml\code\Spark3.0ML大数据分析与挖掘-源码-PPT课件-数据-导图\网盘\源代码'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.09.04 10:42:11 WARN  no build target for: C:\Users\Admin\Desktop\project\spark-ml\code\Spark3.0ML大数据分析与挖掘-源码-PPT课件-数据-导图\网盘\源代码\C03\CacheTest.scala
+2023.09.04 10:42:14 INFO  time: code lens generation in 8.44s
+2023.09.04 11:22:02 INFO  Shutting down server
+2023.09.04 11:22:02 INFO  shutting down Metals
+2023.09.04 11:22:02 INFO  Exiting server
